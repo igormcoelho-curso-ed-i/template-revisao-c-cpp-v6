@@ -35,7 +35,9 @@ Explicações sobre os demais arquivos:
 
 ## Comando de Testes
 
-- Comando para construir e executar os testes: `make test`
+Os seguintes comandos só funcionam no Linux ou Windows/WSL!
+
+- Comando para construir e executar os testes: `make && make test`
    * será necessário suporte a C/C++ para executar todos exercícios
    * Se já estiver construído, basta executar: `./appTeste`
 
@@ -55,4 +57,4 @@ Verifique as demais regras com o professor/monitor.
 
 ## Licença
 
-MIT License 2022
+MIT License 2023

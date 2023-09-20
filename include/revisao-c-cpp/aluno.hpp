@@ -4,12 +4,14 @@
 #pragma once
 
 // C includes
+#include <stdio.h>
 //
 // helpers
 #include <fmt/core.h>
 #include <scn/scn.h>
 // C++ includes
 #include <iostream>
+#include <sstream>  // istringstream
 #include <string>
 #include <tuple>  // para exercícios com tupla
 // favor não remover exemplos

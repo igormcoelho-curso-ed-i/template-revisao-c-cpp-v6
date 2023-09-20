@@ -45,7 +45,7 @@ Leia o número total de votos N, depois cada um dos N votos (cada voto é um val
 --------
 
 **Exercício 3:** calcule a soma, a média, o máximo e o mínimo entre N números reais.
-Leia o numero do exercício, depois o número de valores N. Leia cada um dos N números reais.
+Leia o número de valores N. Leia cada um dos N números reais.
 Ao final, retorna uma tupla com a soma, média, máximo e mínimo destes números.
 
 **Entrada:**
@@ -64,7 +64,7 @@ Ao final, retorna uma tupla com a soma, média, máximo e mínimo destes número
 --------
 
 **Exercício 4:** informe a situação (Aprovado/Reprovado) no k-ésimo aluno da turma.
-Leia o numero do exercício, depois o número de alunos N (para 1 < N < 100). Leia as informações dos N alunos, primeiro sua nota (de 0.0 a 10.0), depois seu nome. Leia o número k e imprima o nome e situação do k-ésimo aluno (1 < k < N), se sua nota for maior ou igual a 6, ele está aprovado (valor 1), caso contrário, está reprovado (valor 0).
+Leia o número de alunos N (para 1 < N < 100). Leia as informações dos N alunos, primeiro sua nota (de 0.0 a 10.0), depois seu nome. Leia o número k e imprima o nome e situação do k-ésimo aluno (1 < k < N), se sua nota for maior ou igual a 6, ele está aprovado (valor 1), caso contrário, está reprovado (valor 0).
 
 **Entrada:**
 6
@@ -82,7 +82,7 @@ Leia o numero do exercício, depois o número de alunos N (para 1 < N < 100). Le
 --------
 
 **Exercício 5:** dado um inteiro N, calcule o fatorial de N.
-Leia o numero do exercício (4), depois um número inteiro N. Imprima o fatorial de N.
+Leia um número inteiro N. Imprima o fatorial de N.
 Obs: o fatorial de N (escrito como "N!") é a multiplicação sucessiva de 1 até N. Exemplo: 4! = 1 * 2 * 3 * 4 = 24
 
 **Entrada:**
@@ -94,7 +94,7 @@ Obs: o fatorial de N (escrito como "N!") é a multiplicação sucessiva de 1 at�
 --------
 
 **Exercício 6:** dado um número k, calcule o k-ésimo termo da Sequência de Fibonacci (SF).
-Leia o numero do exercício (5), depois um número k. Imprima o k-ésimo elemento da SF.
+Leia um número k. Imprima o k-ésimo elemento da SF.
 Na SF, um elemento X é a soma dos DOIS elementos anteriores da sequência: X-1 + X-2.
 Obs: a SF começa por dois elementos de valor 1, ou seja, SF = 1 1 2 3 5 8 13 ...
 
